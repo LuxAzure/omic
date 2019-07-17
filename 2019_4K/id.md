@@ -5,7 +5,7 @@ tags:
 ---
 
 # osu!mania 4K Indonesia Cup 2019
-![osu!mania 4K Indonesia Cup 2019](https://puu.sh/DxvlX/5c3fe2557d.png)  
+![O!MIC 4K 2019 Banner](img/logo.png)  
 **osu!mania 4K Indonesia Cup 2019** adalah turnamen solo osu!mania 4K khusus wilayah Indonesia dengan memakai sistem pertandingan Royal Rumble pada babak setelah Kualifikasi, lalu satu lawan satu dengan Double-Elimination dimulai dari Penyisihan Grup.
 
 ## Jadwal Turnamen
