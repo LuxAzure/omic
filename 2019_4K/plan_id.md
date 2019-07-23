@@ -139,6 +139,22 @@ tags:
     * [Venetian Snares - My So-Called Life ([Crz]Crysarlene) [Stage 4: Desolation]](https://osu.ppy.sh/beatmapsets/988435)
 
 ## Hasil Pertandingan
+### Perempat Final
+
+| Sabtu, 27 Juli 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+**[reyss](https://osu.ppy.sh/users/4557440)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Alien_IDN](https://osu.ppy.sh/u/4686520) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+[[KonG-69]](https://osu.ppy.sh/users/8847412) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+
+| Minggu, 28 Juli 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+[alvinrainbow](https://osu.ppy.sh/users/4783042) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Yangga](https://osu.ppy.sh/users/12143152)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[Proxae](https://osu.ppy.sh/users/8410575)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Merlinch](https://osu.ppy.sh/users/4901971) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+[Yamada Kitaro](https://osu.ppy.sh/users/7670805) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[-[ChoKy]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[Fyl](https://osu.ppy.sh/users/10069307)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[Artem1s](https://osu.ppy.sh/users/12561379)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Slowless](https://osu.ppy.sh/users/10053987) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+
 ### Babak R16
 
 | Sabtu, 20 Juli 2019 | | | | |
