@@ -69,6 +69,23 @@ tags:
 | **H** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [kebannedanjg](https://osu.ppy.sh/users/12971540) | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Alien_IDN](https://osu.ppy.sh/users/4686520) | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [2ndlegend](https://osu.ppy.sh/users/7621604) | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [StyxFearNite](https://osu.ppy.sh/users/8390933) |
 
 ## Mappool
+### Perempat Final
+**[Unduh Mappack Perempat Final disini!](http://bit.ly/2YYrLwd)**
+* FreeMod
+    * [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/Stars (Benzopirene) [MP4K3 Edit]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+    * ["Weird Al" Yankovic - Hardware Store (Tidek) [Chordjack Store]](https://osu.ppy.sh/beatmapsets/984549#mania/2060036)
+    * [Subplaid - Jeg onsker ikke a skade deg (Couil) [i don't want to hurt you]](https://osu.ppy.sh/beatmapsets/827197#mania/1733403)
+    * [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (_underjoy) [UJCHAN!!]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+    * [Culprate & Bloom - Aurora (-Rem-) [borealis]](https://osu.ppy.sh/beatmapsets/984703#mania/2060360)
+    * [N.M.S.T. - Snowflakes (-Rem-) [memory (183.75 bpm)]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
+    * [Aphex Twin - Flim (LuxAzure) [Nivrad's Mapping Style: Parachor]](https://osu.ppy.sh/beatmapsets/1004120#mania/2101565)
+    * [Kanae Asaba - Endless Starlight ~Inochi no Kirameki~ (Raveille) [Kibo]](https://osu.ppy.sh/beatmapsets/629366#mania/1328717)
+    * [Helblinde - Putin's Boner (LuxAzure) [Challenge Lv.48]](https://osu.ppy.sh/beatmapsets/1005205#mania/2103777)
+    * [Kkrusty - A Quick Death (Shoegazer) [Desolation]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
+    * [xarva - easymotion (zero2snow) [Stage 1: Estimate]](https://osu.ppy.sh/beatmapsets/948786#mania/1981394)
+* TieBreaker
+    * **[Billain - Specialist (Raveille) [Maestro]](https://osu.ppy.sh/beatmapsets/574577#mania/1216877)**
+
 ### Babak R16
 **[Unduh Mappack Babak R16 disini!](http://bit.ly/2XMCokb)**
 * FreeMod
@@ -122,6 +139,22 @@ tags:
     * [Venetian Snares - My So-Called Life ([Crz]Crysarlene) [Stage 4: Desolation]](https://osu.ppy.sh/beatmapsets/988435)
 
 ## Hasil Pertandingan
+### Babak R16
+
+| Sabtu, 20 Juli 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+**[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 1 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Fyl](https://osu.ppy.sh/users/10069307) | [#1](https://osu.ppy.sh/community/matches/53470726) |
+**[Heriza-](https://osu.ppy.sh/users/8911771)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 3 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53474229) |
+**[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53475726) |
+
+| Minggu, 21 Juli 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+[Merlinch](https://osu.ppy.sh/users/4901971) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 1 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Alien_IDN](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53491947) |
+**[[KonG-69]](https://osu.ppy.sh/users/8847412)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 2 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [alvinrainbow](https://osu.ppy.sh/users/4783042) | [#1](https://osu.ppy.sh/community/matches/53493068) |
+[Artem1s](https://osu.ppy.sh/users/12561379) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 1 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Yamada Kitaro](https://osu.ppy.sh/users/7670805)** | [#1](https://osu.ppy.sh/community/matches/53494572) |
+[Slowless](https://osu.ppy.sh/users/10053987) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 1 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[-[ChoKy]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/53497372) |
+[Proxae](https://osu.ppy.sh/users/8410575) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53499829) |
+
 ### Penyisihan Grup
 
 | Sabtu, 6 Juli 2019 | | | | |
