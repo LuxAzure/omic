@@ -143,9 +143,9 @@ tags:
 
 | Sabtu, 27 Juli 2019 | | | | |
 | --: | :-: | :-: | :-- | :-: |
+[[KonG-69]](https://osu.ppy.sh/users/8847412) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 1 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53632020) |
+**[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 1 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
 **[reyss](https://osu.ppy.sh/users/4557440)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Alien_IDN](https://osu.ppy.sh/u/4686520) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
-[[KonG-69]](https://osu.ppy.sh/users/8847412) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
-**[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
 
 | Minggu, 28 Juli 2019 | | | | |
 | --: | :-: | :-: | :-- | :-: |
