@@ -99,7 +99,7 @@ tags:
     * [Culprate & Bloom - Aurora (-Rem-) [borealis]](https://osu.ppy.sh/beatmapsets/984703#mania/2060360)
     * [N.M.S.T. - Snowflakes (-Rem-) [memory (183.75 bpm)]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
     * [Aphex Twin - Flim (LuxAzure) [Nivrad's Mapping Style: Parachor]](https://osu.ppy.sh/beatmapsets/1004120#mania/2101565)
-    * [Kanae Asaba - Endless Starlight ~Inochi no Kirameki~ (Raveille) [Kibo]](https://osu.ppy.sh/beatmapsets/629366#mania/1328717)
+    * [Kanae Asaba - Endless Starlight \~Inochi no Kirameki\~ (Raveille) [Kibo]](https://osu.ppy.sh/beatmapsets/629366#mania/1328717)
     * [Helblinde - Putin's Boner (LuxAzure) [Challenge Lv.48]](https://osu.ppy.sh/beatmapsets/1005205#mania/2103777)
     * [Kkrusty - A Quick Death (Shoegazer) [Desolation]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
     * [xarva - easymotion (zero2snow) [Stage 1: Estimate]](https://osu.ppy.sh/beatmapsets/948786#mania/1981394)
