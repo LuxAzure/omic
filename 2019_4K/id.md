@@ -118,7 +118,7 @@ tags:
 	* [fripSide - sister's noise (TV Size) (juankristal) [Electromaster]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
 	* [wa. remixed by celas - Gin no Kaze -Silver Wind- (Elekton) [mistral]](https://osu.ppy.sh/beatmapsets/757160#mania/1592941)
 	* [Ryu* ft. MAYU - Only For You* (Ryu* REMIX) (Kamikaze) [nowsmart's SHINE (MP4K Edit)]](https://osu.ppy.sh/beatmapsets/996035#mania/2083446)
-	* [2MB - Healing Vision `~Angelic mix~` ([Crz]Crysarlene) [please save her for me (nerfed) 1.05x]](https://osu.ppy.sh/beatmapsets/952775#mania/2083076)
+	* [2MB - Healing Vision \~Angelic mix\~ ([Crz]Crysarlene) [please save her for me (nerfed) 1.05x]](https://osu.ppy.sh/beatmapsets/952775#mania/2083076)
 	* [FLOOR BABA - Whole Pocket (Lenfried-) [8 Ball]](https://osu.ppy.sh/beatmapsets/781110#mania/1640591)
 * TieBreaker
     * **[Camellia - Furry Cannon (LuxAzure) [CURIOSSITY'S PRIMAL SVVAGERY (buffed edition)]](https://osu.ppy.sh/beatmapsets/1003476#mania/2100177)**
