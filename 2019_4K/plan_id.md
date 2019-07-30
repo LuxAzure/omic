@@ -159,13 +159,29 @@ tags:
     * [Venetian Snares - My So-Called Life ([Crz]Crysarlene) [Stage 4: Desolation]](https://osu.ppy.sh/beatmapsets/988435)
 
 ## Hasil Pertandingan
+### Semi Final
+
+| Sabtu, 3 Agustus 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+**[Alien_IDN](https://osu.ppy.sh/u/4686520)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Yangga](https://osu.ppy.sh/u/12143152) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+[[KonG-69]](https://osu.ppy.sh/u/8847412) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **6** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Proxae](https://osu.ppy.sh/u/8410575)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[ChocoCoki](https://osu.ppy.sh/u/3565870)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Slowless](https://osu.ppy.sh/u/10053987) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+
+| Minggu, 4 Agustus 2019 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+**[Yamada Kitaro](https://osu.ppy.sh/u/7670805)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Fyl](https://osu.ppy.sh/u/10069307) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[Alien_IDN](https://osu.ppy.sh/u/4686520)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Yamada Kitaro](https://osu.ppy.sh/u/7670805) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[ChocoCoki](https://osu.ppy.sh/u/3565870)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Proxae](https://osu.ppy.sh/u/8410575) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+[Heriza-](https://osu.ppy.sh/u/8911771) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 0 | **6** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Kevin-sama](https://osu.ppy.sh/u/6991664)** | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[-[ChoKy]-](https://osu.ppy.sh/u/4691146)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **6** | 0 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [reyss](https://osu.ppy.sh/u/4557440) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+
 ### Perempat Final
 
 | Sabtu, 27 Juli 2019 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 [[KonG-69]](https://osu.ppy.sh/users/8847412) ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | 1 | **5** | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53632020) |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 1 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
-**[reyss](https://osu.ppy.sh/users/4557440)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 1 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Alien_IDN](https://osu.ppy.sh/u/4686520) | [#1](https://osu.ppy.sh/community/matches/xxxxxxxx) |
+**[reyss](https://osu.ppy.sh/users/4557440)** ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) | **5** | 1 | ![](https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/ID.gif) [Alien_IDN](https://osu.ppy.sh/u/4686520) | [#1](https://osu.ppy.sh/community/matches/53636930) |
 
 | Minggu, 28 Juli 2019 | | | | |
 | --: | :-: | :-: | :-- | :-: |
