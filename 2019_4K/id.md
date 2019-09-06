@@ -42,8 +42,8 @@ tags:
 | Dokumentasi | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 | Pemilih Map | ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_ID] [LuxAzure](https://osu.ppy.sh/users/6045757) |
 | Penyiar | ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Wasit | ![][flag_ID] [-ExRazor](https://osu.ppy.sh/users/6807769), ![][flag_ID] [[Kii - kun]](https://osu.ppy.sh/users/11246935), ![][flag_ID] [_Riku1602](https://osu.ppy.sh/users/6918271), ![][flag_ID] [Aishdoll-](https://osu.ppy.sh/users/7751704), ![][flag_ID] [angki](https://osu.ppy.sh/users/9038483), ![][flag_ID] [Kirana](https://osu.ppy.sh/users/4566442), ![][flag_ID] [LuxAzure](https://osu.ppy.sh/users/6045757), ![][flag_ID] [LuxAzusa](https://osu.ppy.sh/users/3957170), ![][flag_ID] [projectc1](https://osu.ppy.sh/users/2663343), ![][flag_ID] [SayoriFangirl](https://osu.ppy.sh/users/4569035), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Komentator | ![][flag_ID] [-ExRazor](https://osu.ppy.sh/users/6807769), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_ID] [Artemis-](https://osu.ppy.sh/users/9025266), ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Halsy](https://osu.ppy.sh/users/6551704), ![][flag_ID] [projectc1](https://osu.ppy.sh/users/2663343), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_ID] [SayoriFangirl](https://osu.ppy.sh/users/4569035), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Zero\[13\]](https://osu.ppy.sh/users/13942350) |
+| Wasit | ![][flag_ID] [-ExRazor](https://osu.ppy.sh/users/6807769), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_ID] [[Kii - kun]](https://osu.ppy.sh/users/11246935), ![][flag_ID] [_Riku1602](https://osu.ppy.sh/users/6918271), ![][flag_ID] [Aishdoll-](https://osu.ppy.sh/users/7751704), ![][flag_ID] [angki](https://osu.ppy.sh/users/9038483), ![][flag_ID] [Kirana](https://osu.ppy.sh/users/4566442), ![][flag_ID] [LuxAzure](https://osu.ppy.sh/users/6045757), ![][flag_ID] [LuxAzusa](https://osu.ppy.sh/users/3957170), ![][flag_ID] [projectc1](https://osu.ppy.sh/users/2663343), ![][flag_ID] [SayoriFangirl](https://osu.ppy.sh/users/4569035), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Komentator | ![][flag_ID] [-ExRazor](https://osu.ppy.sh/users/6807769), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_ID] [Artemis-](https://osu.ppy.sh/users/9025266), ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Halsy](https://osu.ppy.sh/users/6551704), ![][flag_ID] [projectc1](https://osu.ppy.sh/users/2663343), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_ID] [SayoriFangirl](https://osu.ppy.sh/users/4569035), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Desainer | ![][flag_ID] [Acrylate](https://osu.ppy.sh/users/14208229) |
 
 ## Daftar Tautan Terkait
@@ -85,8 +85,6 @@ tags:
 
 ### Final / Grand Final
 
-**[Unduh Mappack disini! (114 MB)](http://bit.ly/2KqmbxQ)**
-
 - FreeMod
   - [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Pope Gadget) \[Noughts\]](https://osu.ppy.sh/beatmapsets/878577#mania/1837470)
   - [sky\_delta - Precursor (Daughter-) \[antecedent (edit)\]](https://osu.ppy.sh/beatmapsets/857564#mania/2116521)
@@ -108,8 +106,6 @@ tags:
 
 ### Semifinal
 
-**[Unduh Mappack disini! (78 MB)](http://bit.ly/2LL7Uxr)**
-
 - FreeMod
   - [Paul Bazooka - We're All Gonna Die (Kamikaze) \[Rigor Mortis\]](https://osu.ppy.sh/beatmapsets/917575#mania/1916188)
   - [YZYX - .\_Pulse (-Rem-) \[Challenge (240bpm)\]](https://osu.ppy.sh/beatmapsets/1007048#mania/2107663)
@@ -129,8 +125,6 @@ tags:
 
 ### Perempat Final
 
-**[Unduh Mappack disini! (68 MB)](http://bit.ly/2YYrLwd)**
-
 - FreeMod
   - [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/Stars (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
   - ["Weird Al" Yankovic - Hardware Store (Tidek) \[Chordjack Store\]](https://osu.ppy.sh/beatmapsets/984549#mania/2060036)
@@ -147,8 +141,6 @@ tags:
   - **[Billain - Specialist (Raveille) \[Maestro\]](https://osu.ppy.sh/beatmapsets/574577#mania/1216877)**
 
 ### Babak 16 Besar
-
-**[Unduh Mappack disini! (67 MB)](http://bit.ly/2XMCokb)**
 
 - FreeMod
   - [Yu_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/349432#mania/770549)
@@ -167,8 +159,6 @@ tags:
 
 ### Penyisihan Grup
 
-**[Unduh Mappack disini! (60 MB)](http://bit.ly/2FI2zCt)**
-
 - FreeMod
   - [The Flashbulb - Every Two Days (Civilization) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
   - [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
@@ -184,8 +174,6 @@ tags:
 
 ### Babak 56 Besar
 
-**[Unduh Mappack disini! (30 MB)](http://bit.ly/2KxYIfu)**
-
 - FreeMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (siilento's solid remix) (LuxAzure) \[Zyph's Challenge\]](https://osu.ppy.sh/beatmapsets/992292#mania/2075169)
   - [KillerBlood - -.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. . (Dergo) \[restoration\]](https://osu.ppy.sh/beatmapsets/919414#mania/1919691)
@@ -197,8 +185,6 @@ tags:
   - **[xi vs sakuzyo - STORIA (Kyousuke-) \[Rido's 4K Insane\]](https://osu.ppy.sh/beatmapsets/330438#mania/732355)**
 
 ### Kualifikasi
-
-**[Unduh Mappack disini! (11 MB)](https://drive.google.com/file/d/1gwJJyJHUDjci_ORaWmbi1aqsKTP689pK/view?usp=sharing)**
 
 - FreeMod
   - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Stage 1: Constant\]](https://osu.ppy.sh/beatmapsets/988436)
@@ -212,7 +198,7 @@ tags:
 
 ### Grand Final
 
-| Minggu, 18 Agustus 2019 |  |  |  |  |
+| Minggu, 25 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
